@@ -1,0 +1,2 @@
+State: Death
+Score: 0
